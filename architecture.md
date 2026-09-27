@@ -11,7 +11,7 @@ flowchart TB
     mobile([Mobile app - planned])
     entra[[Microsoft Entra ID]]
 
-    subgraph platform ["ar-ecommerce-platform"]
+    subgraph platform ["ar-ecommerce-backend"]
         api[API Gateway<br/>:8080]
     end
 
