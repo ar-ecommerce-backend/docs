@@ -12,3 +12,4 @@ marked as such.
 | [0004](0004-config-server-not-load-bearing.md) | config-server is demonstrable but not load-bearing | Accepted |
 | [0005](0005-flyway-owns-the-schema.md) | Flyway owns the `prod` schema; Hibernate only validates | Accepted |
 | [0006](0006-gateway-asserted-identity.md) | Gateway asserts caller identity (`X-User-Id`); services scope data to it; default-deny edge | Accepted |
+| [0007](0007-role-based-access.md) | Role-based access: customer / staff / admin, enforced at the gateway, no role = customer | Accepted |
