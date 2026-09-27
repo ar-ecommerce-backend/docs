@@ -1,6 +1,6 @@
 # docs
 
-Architecture and design notes for the [ar-ecommerce-platform](https://github.com/ar-ecommerce-platform) —
+Architecture and design notes for the [ar-ecommerce-backend](https://github.com/ar-ecommerce-backend) —
 a Java 21 / Spring Boot microservices e-commerce backend built to practise distributed-systems
 design and DevOps.
 
